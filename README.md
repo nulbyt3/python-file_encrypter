@@ -1,5 +1,7 @@
 *** Overview ***
-This is a file encryption app written using Python that you can Encrypt/Decrypt choosen files. (Used 🎨COLORFUL texts for better outputs)
+
+This is a file encryption app written using Python that you can Encrypt/Decrypt choosen files. 
+(Used 🎨COLORFUL texts for better outputs)
 
 --- ⚠️ For educational purpose only, use in it your own machine.
 --- !!! Recommended to create mock files for testing.
